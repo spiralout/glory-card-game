@@ -1,7 +1,7 @@
 # Glory the Card Game Rules
 ### *An Ameritrash Game for Standard Playing Cards*
 
-This is version 1.0.0 of the official game rules for **Glory**. 
+This is version 1.0.1 of the official game rules for **Glory**. 
 This document was last updated 7 July 2019.
 
 ## Description
@@ -89,6 +89,8 @@ At the beginning of the game, every player starts with 0 Glory Points. They are 
 Starting with the first player, and proceeding clockwise, each player should draw one face down card, until they have seven cards in their hand. And Money cards drawn should be immediately played face up in the player's Treasury. Keep going around the table drawing cards or passing, until every player has seven non-Money cards in their hand.
 
 ## Play
+Play proceeds clockwise from the first player.
+
 ### Money Cards
 Any time during the game when a player draws a Money card, it should be immediately played face up into his Treasury, and a replacement card should be drawn. Repeat this until a non-Money card is drawn.
 
