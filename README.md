@@ -220,7 +220,7 @@ The standard game length is 4 rounds, though players may choose to play more or 
 The player with the most Glory Points at the end of the last round is victorious! If two or more players are tied for the most GP, additional rounds must be played until a winner can be declared.
 
 ## Credits
-Glory the Card Game is copyright (c) 2013-2019 by Sean Crystal <seancrystal@gmail.com>
+Glory the Card Game is copyright (c) 2013-2019 by Sean Crystal
 
 *Glory was previously named Generals & Assassins*
 
