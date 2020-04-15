@@ -1,18 +1,18 @@
 # Glory the Card Game Rules
 ### *An Ameritrash Card Game*
 
-This is version 2.0.0 of the official game rules for **Glory**. 
+This is version 2.0.1 of the official game rules for **Glory**. 
 This document was last updated 15 April 2020.
 
 ## Description
 Glory is a competitive card game for 2 or more players, using one standard playing card deck (with jokers) for each 
-player. It is played in a series of 4 rounds, in which players win Glory for their kingdom by growing their domain, 
+player. It is played in a series of 4 rounds, in which players win Glory for their kingdom by growing their Domain, 
 questing to discover Relics, and defeating other players in battle! 
 
 ## Requirements
 * One standard deck (with jokers) for each player
-* Score keeping device for tracking various point values (poker chips, notepad, score-keeping app, etc.)
-* At least 10 tokens to represent Relics (marbles, coins, chess pieces, etc.)
+* Score keeping device for tracking various point values (poker chips, notepad, score-keeping app)
+* Tokens to represent Relics (marbles, coins, chess pieces)
 * A calculator may also be useful
 
 ## Objective
@@ -113,7 +113,7 @@ reset at the beginning of each round.
 
 ### Deal
 Starting with the first player, and proceeding clockwise, each player should draw one face down card, until they have 
-seven cards in their hand. And Money cards drawn should be immediately played face up in the player's Treasury. Keep 
+seven cards in their hand. Any Money cards drawn should be immediately played face up in the player's Treasury. Keep 
 going around the table drawing cards or passing, until every player has seven non-Money cards in their hand.
 
 ## Play
@@ -232,9 +232,9 @@ any way.
 	* The defender must then present an equal number of Assassins, otherwise the assassination succeeds
 	* The defender is not required to thwart the assassination attempt, if he is able to
 * **Resolution**
-	* If the Assassination a success, the defender's HP are reduced to zero, triggering the end of the round.
+	* If the Assassination succeeds, the defender's HP are reduced to zero, triggering the end of the round.
 	* All Assassin cards involved in the attempt are discarded.
-	* If the attacker mistakenly declares an Assassination attempt on a player than has at least 20 HP, the attempt 
+	* If the attacker mistakenly declares an Assassination attempt on a player that has at least 20 HP, the attempt 
 	  immediately fails with no need for defensive play.
 * **Score**
 	* If the assassination succeeded
